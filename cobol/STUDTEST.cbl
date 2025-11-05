@@ -4,6 +4,7 @@
        DATA DIVISION.                                                   00050000
        WORKING-STORAGE SECTION.                                         00060000
       *                                                                 00070000
+      *Commenet added for testing*
        01 WS-STUDENT.                                                   00080000
           05 WS-STUDID                 PIC S9(9) USAGE COMP-5.          00090000
           05 WS-STUDNAME               PIC X(30).                       00100000
